@@ -1,0 +1,25 @@
+# Dependencies & Node
+node_modules/
+
+# OS & Temp
+Thumbs.db
+.DS_Store
+*.tmp
+*.log
+
+# Maya / Substance / Raw 3D Working Files & Caches
+*.mb
+*.ma
+*.tx
+*.tif
+*.tiff
+*.mov
+
+# All Unused Working Folders (โฟลเดอร์ที่ไม่ใช้)
+**/ไม่ใช้/
+ผลงาน Modeling/Character Student Model/
+ผลงาน Modeling/GameCharracter/
+
+# Heavy video files replaced by YouTube embeds
+ผลงาน Modeling/Other_Model/Modeling_For_Mascot/Turn_Table.mp4
+รวมผลงานAnimation/Animation_Opening_Sport_Event.mp4

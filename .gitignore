@@ -23,3 +23,14 @@ Thumbs.db
 # Heavy video files replaced by YouTube embeds
 ผลงาน Modeling/Other_Model/Modeling_For_Mascot/Turn_Table.mp4
 รวมผลงานAnimation/Animation_Opening_Sport_Event.mp4
+
+# Large binaries, builds & archives (> 50MB-500MB)
+*.exe
+*.zip
+*.rar
+*.7z
+SHOWREEL.mp4
+portfolio_model_parinya_compressed.pdf
+รวมผลงานเกม/Project_Game_Siamgarden/Roblox_siam_garden/
+รวมผลงานเกม/สัมมนา/
+

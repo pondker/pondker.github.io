@@ -779,6 +779,23 @@ const PORTFOLIO_DATA = {
       ]
     },
     {
+      id: "logitech-mouse",
+      title: "Logitech Gaming Mouse — Hard Surface Product",
+      category: "props",
+      categoryName: "Hard Surface & Props",
+      image: "ผลงาน Modeling/Other_Model/Render_Mouse_Logitech.webp",
+      software: ["Blender", "Cycles Render"],
+      description: "โมเดลเมาส์เกมมิ่ง Logitech สไตล์ Hard Surface ดีไซน์โค้งมนตามหลักสรีรศาสตร์ (Ergonomics) เน้นความแม่นยำของรอยต่อ ปุ่มคลิก Scroll Wheel สายเคเบิล และเส้นไฟ RGB Lighting พาดผ่านบอดี้อย่างสวยงามสมจริง",
+      slides: [
+        {
+          type: "image",
+          title: "Logitech Gaming Mouse (Hero Angle)",
+          src: "ผลงาน Modeling/Other_Model/Render_Mouse_Logitech.webp",
+          description: "มุมมองเฉียง Perspective 3/4 แสดงเส้นสายความโค้งมน พื้นผิวด้านแบบ Matte Plastic และแถบไฟ RGB Gradient"
+        }
+      ]
+    },
+    {
       id: "animation-cgam15",
       title: "CGAM 15 — Opening Animation for Sport Event",
       category: "animation",
